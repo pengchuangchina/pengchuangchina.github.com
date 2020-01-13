@@ -12,3 +12,4 @@
     </td>
   </tr>
 </table>
+<a href="/ziliao.html">英文版</a>
