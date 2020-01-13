@@ -8,7 +8,7 @@
       <p><b>地址：湖北省武汉市洪山区雄楚大道236号</b></p>
     </td>
     <td width="25%">
-      <img src="/me.jpg" width="100%">      % 
+      <img src="/me.jpg" width="100%">       
     </td>
   </tr>
 </table>
