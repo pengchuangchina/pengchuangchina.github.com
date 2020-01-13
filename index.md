@@ -12,4 +12,4 @@
     </td>
   </tr>
 </table>
-<a href="/ziliao.html">英文版</a>
+<a href="/ziliao.html">详细简历在这里</a>
